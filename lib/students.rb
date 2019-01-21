@@ -2,7 +2,7 @@
 
 def highest_student_gpa
   SELECT MAX(gpa)
-  @gpa
+  
 end
 
 def lowest_student_gpa
